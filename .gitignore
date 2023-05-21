@@ -1,0 +1,8 @@
+__pycache__
+/env
+/experiments
+/.idea
+.DS_Store
+/performance
+/temp
+/venv
